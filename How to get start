@@ -5,7 +5,7 @@
 
 3.output:
     Missing arguments:
-      <args:0> Used in modules/(camera.CameraLoader)/config/path
-      <args:1> Used in modules/(Loader.ObjectLoader)/config/path
-      <args:2> Used in modules/(main.Initializer)/config/global/output_dir
+      <args:0> Used in modules/(camera.CameraLoader)/config/path            #相机加载器路径 相机姿势
+      <args:1> Used in modules/(Loader.ObjectLoader)/config/path            #物体加载器
+      <args:2> Used in modules/(main.Initializer)/config/global/output_dir  #输出保存在哪
       
