@@ -1,0 +1,11 @@
+1.Download
+
+2.run:
+    python run.py example/basic/config.yaml
+
+3.output:
+    Missing arguments:
+      <args:0> Used in modules/(camera.CameraLoader)/config/path
+      <args:1> Used in modules/(Loader.ObjectLoader)/config/path
+      <args:2> Used in modules/(main.Initializer)/config/global/output_dir
+      
