@@ -1,3 +1,5 @@
 pyyaml
 libhdf5-dev
 python-h5py
+pip install h5py
+matplotlib
